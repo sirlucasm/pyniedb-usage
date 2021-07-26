@@ -13,8 +13,7 @@
 		"url": "git+https://github.com/sirlucasm/pyniedb-usage.git"
 	},
 	"keywords": [
-		"pyniedb",
-		"usages"
+		"pyniedb usages"
 	],
 	"author": "sirlucasm",
 	"license": "MIT",
@@ -29,6 +28,6 @@
 		"cors": "^2.8.5",
 		"dotenv": "^10.0.0",
 		"express": "^4.17.1",
-		"pyniedb": "^0.0.3"
+		"pyniedb": "0.0.5"
 	}
 }

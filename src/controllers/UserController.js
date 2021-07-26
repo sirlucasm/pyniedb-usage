@@ -20,5 +20,12 @@ module.exports = {
 		if (!user) res.status(404).json({ message: 'user not found' });
 
 		res.json(user);
+	},
+
+	delete: async (req, res) => {
+		const { id } = req.params;
+		await User.delete('id', id);
+
+		res.status(200).send();
 	}
 }

@@ -850,10 +850,10 @@ pupa@^2.0.1:
   dependencies:
     escape-goat "^2.0.0"
 
-pyniedb@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/pyniedb/-/pyniedb-0.0.3.tgz#3791d69195ffa1da205604ddd50424c2112a1420"
-  integrity sha512-M6Ix+U2/R2oWvCIG1cvacWjq9TsAHfRyJFnwdhvJgpVMOE3rqnaUKvPvOQ8SoQye+Ec3Eek2jrQgYzbpUBuv9A==
+pyniedb@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/pyniedb/-/pyniedb-0.0.5.tgz#6ce515595f221ac90f45f3ab0f17d5002d820aa0"
+  integrity sha512-jPHHdbtNf+vUYoc0K8Gm3fWDNhxeaSSykMgK/F1fY6PJW13m9soENmTyS7HuKR3eIXbywLbLd4LgwQ2rSMlIQg==
 
 qs@6.7.0:
   version "6.7.0"
